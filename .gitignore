@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Kafka logs & temp data
+kafka_*/logs/
+*.log
+
+# PEM keys (VERY important)
+*.pem
