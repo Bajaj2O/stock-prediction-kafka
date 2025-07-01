@@ -13,3 +13,6 @@ kafka_*/logs/
 
 # PEM keys (VERY important)
 *.pem
+
+#environment variables
+.env
