@@ -16,3 +16,7 @@ kafka_*/logs/
 
 #environment variables
 .env
+
+
+#commands for ease
+*.txt
